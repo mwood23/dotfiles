@@ -42,12 +42,12 @@ yabai -m config window_gap                   03
 
 # Space labels
 yabai -m space 1 --label "Primary"
-yabai -m space 4 --label "Coding"
-yabai -m space 3 --label "Comms"
-yabai -m space 4 --label "Comps"
-yabai -m space 5 --label "Music"
-yabai -m space 6 --label "Git"
-yabai -m space 7 --label "Terminals"
+yabai -m space 2 --label "Coding"
+yabai -m space 3 --label "Git"
+yabai -m space 4 --label "Comms"
+yabai -m space 5 --label "Comps"
+yabai -m space 6 --label "Terminals"
+yabai -m space 7 --label "Music"
 yabai -m space 8 --label "Float"
 
 # Space config
